@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #bdbbbb;
+}
+
+h1{
+    text-align: center;
+    margin: 20px auto;
+    font-size: 7rem;
+}
+.game{
+    margin-top:100px ;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    text-align: center;
+    h2{
+        font-size: 4rem;
+    }
+    img{
+        text-align: center;
+        width: 500px;
+        margin: 50px auto   ;
+    }
+}
+
